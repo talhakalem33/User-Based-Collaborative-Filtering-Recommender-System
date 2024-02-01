@@ -55,4 +55,4 @@ parameters:<br >
     - n_recomm: int, number of movies to recommend
 
 returns:
-    - pd.DataFrame with [movie_id, rating, movie name]
+    - `pd.DataFrame with [movie_id, rating, movie name]`
